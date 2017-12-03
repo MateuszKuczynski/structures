@@ -9,14 +9,3 @@ Struktury danych:
     Set - done
     Mapy - done
     Cache
-
-Złożoność obliczeniowa
-
-Sortowanie:
-    bubblesort
-    insertionsort
-    selectionsort
-    quicksort
-    heapsort
-    countingsort
-    mergesort

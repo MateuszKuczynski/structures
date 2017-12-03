@@ -19,4 +19,11 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>pl.sdacademy.rozkocha.szymon</groupId>
+            <artifactId>sorting</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
